@@ -6,3 +6,4 @@ This is not good!
 I do not like this!
 
 Hello my friend!
+Hi my friend
